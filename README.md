@@ -1,4 +1,4 @@
-# Adhis1
+tt# Adhis1
 
  Hello, I'm Adhisthan Gurung
 
@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Building a firewall (python)                  | |
+| Setting a firewall (python)                   | |
 |                                               | |
 |                                               | |
 |

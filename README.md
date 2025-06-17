@@ -5,7 +5,10 @@
  ## 🔗 Connect With Me  
  
 [🌐 LinkedIn] : (www.linkedin.com/in/adhisthan-gurung-4b6089330)
-[🛡️ TryHackMe Profile] : (
+[🛡️ TryHackMe Profile] : (https://tryhackme.com/p/adhisthangurung1)
+
+
+
 I am a computer sceince uni student with intreset in technolgoy .My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
